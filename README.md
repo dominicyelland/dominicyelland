@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dominicyelland
 - 👀 I’m interested in software development!
-- 🌱 I’m currently learning C#, HTML and CSS, JavaScript, and SQL.
+- 🌱 I’m currently learning C#, HTML and CSS, JavaScript, PHP, and SQL.
 - 💞️ I’m looking to collaborate on anything C# or Java related!
 - 📫 You can contact me via dominicyelland@outlook.com
 
